@@ -1,4 +1,4 @@
-/* Name: Sabrina Pinera
+/*
 Date: 09/06/2018
 Section: section 5
 Assignment: Assignment# 2
@@ -8,8 +8,7 @@ About this project: Calculate and display the user's homework average, their tes
 		    Use either a switch statement or an if/else if block to determine what letter grade the user earned
 		    based on their final course grade percentage. See the course syllabus for the letter grade breakdowns.
 Assumptions: Program outputs homework average, test average, final course percentage, and final letter grade.
-
-All work below was performed by Sabrina Pinera */
+*/
 #include <iostream>
 #include <iomanip>
 #include <string>
